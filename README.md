@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Golang and Data Science**
 
-- 💬 Ask me about **Neovim and C++**
+- 💬 Ask me about **Neovim**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
